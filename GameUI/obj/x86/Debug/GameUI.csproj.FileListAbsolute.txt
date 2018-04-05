@@ -1,0 +1,12 @@
+C:\GitHub\TicTacToeGame\GameUI\bin\Debug\GameUI.exe
+C:\GitHub\TicTacToeGame\GameUI\bin\Debug\GameUI.pdb
+C:\GitHub\TicTacToeGame\GameUI\bin\Debug\GameLogic.dll
+C:\GitHub\TicTacToeGame\GameUI\bin\Debug\GameLogic.pdb
+C:\GitHub\TicTacToeGame\GameUI\obj\x86\Debug\GameUI.csprojResolveAssemblyReference.cache
+C:\GitHub\TicTacToeGame\GameUI\obj\x86\Debug\GameUI.BoardButtons.resources
+C:\GitHub\TicTacToeGame\GameUI\obj\x86\Debug\GameUI.BoardGameForm.resources
+C:\GitHub\TicTacToeGame\GameUI\obj\x86\Debug\GameUI.GameSettingsForm.resources
+C:\GitHub\TicTacToeGame\GameUI\obj\x86\Debug\GameUI.Properties.Resources.resources
+C:\GitHub\TicTacToeGame\GameUI\obj\x86\Debug\GameUI.csproj.GenerateResource.Cache
+C:\GitHub\TicTacToeGame\GameUI\obj\x86\Debug\GameUI.exe
+C:\GitHub\TicTacToeGame\GameUI\obj\x86\Debug\GameUI.pdb
